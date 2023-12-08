@@ -17,6 +17,7 @@ Config Files for my purple Hyprland rice.
 ### - Wofi
 ### - GTK Theme Catppucin Frappe 
 ### - Hyprshot
+### - Udiskie
 
 
 
